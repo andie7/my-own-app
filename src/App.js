@@ -11,7 +11,7 @@ export default function App() {
         <footer className="footer">
           This project was coded by Andreia Fernandes and is
           <a
-            href="https://github.com/andie7/New-React-weather-app"
+            href="https://github.com/andie7/my-own-app"
             target="_blank"
             rel="noreferrer"
           >
