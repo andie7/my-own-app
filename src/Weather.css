@@ -11,7 +11,7 @@
 }
 
 .Weather h1 {
-  color: #878787;
+  color: #f7dead;
   display: block;
   margin: 20px 0 0 0;
   font-size: 24px;
@@ -57,4 +57,13 @@
   top: -34px;
   margin-left: 5px;
   line-height: 1;
+}
+
+.btn-new {
+  background: #dd723c;
+  color: white;
+}
+
+.WeatherInfo {
+  color: #f7dead;
 }
