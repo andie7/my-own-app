@@ -9,12 +9,15 @@
 
 .WeatherForecast-day {
   color: #f7dead;
+  font-size: 20px;
 }
 
 .WeatherForecast-temperature-max {
   color: #f7dead;
+  font-size: 20px;
 }
 
 .WeatherForecast-temperature-min {
   color: #f7dead;
+  font-size: 20px;
 }
