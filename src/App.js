@@ -27,7 +27,11 @@ export default function App() {
             open sourced on Github
           </a>
           {""} and {""}
-          <a href="" target="_blank" rel="noreferrer">
+          <a
+            href="https://tourmaline-lily-9c2c85.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>
