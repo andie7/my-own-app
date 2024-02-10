@@ -64,6 +64,16 @@
   color: white;
 }
 
+.btn-new:hover {
+  background: white;
+  color: #dd723c;
+}
 .WeatherInfo {
+  color: #f7dead;
+  position: relative;
+  left: 10px;
+}
+
+.unit {
   color: #f7dead;
 }

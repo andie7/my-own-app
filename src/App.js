@@ -17,6 +17,10 @@ export default function App() {
           >
             open sourced on Github
           </a>
+          and
+          <a href="" target="_blank" rel="noreferrer">
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
