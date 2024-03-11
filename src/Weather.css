@@ -1,9 +1,8 @@
 .Weather {
-  border: 1px solid black;
+  border: none;
   font-family: arial, sans-serif;
   color: #878787;
   padding: 16px;
-  border-radius: 4px;
 }
 
 .Weather form {
