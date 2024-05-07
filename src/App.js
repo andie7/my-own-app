@@ -18,15 +18,9 @@ export default function App() {
             Andreia Fernandes
           </a>{" "}
           {""}
-          and is {""}
-          <a
-            href="https://github.com/andie7/my-own-app"
-            target="_blank"
-            rel="noreferrer"
-          >
-            open sourced on Github
-          </a>
-          {""} and {""}
+          and  {""}
+         
+          
           <a
             href="https://tourmaline-lily-9c2c85.netlify.app/"
             target="_blank"
