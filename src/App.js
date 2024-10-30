@@ -10,17 +10,8 @@ export default function App() {
 
         <footer className="footer">
           This project was coded by {""}
-          <a
-            href="https://linktr.ee/andiekay90"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Andreia Fernandes
-          </a>{" "}
-          {""}
-          and  {""}
-         
-          
+          Andreia Fernandes {""}
+          and {""}
           <a
             href="https://tourmaline-lily-9c2c85.netlify.app/"
             target="_blank"
